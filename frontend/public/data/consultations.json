@@ -1,0 +1,246 @@
+{
+    "consultations": [
+        {
+            "specialite": "ORL",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "vendredi"
+            ],
+            "horaires": "07:00-12:00",
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "ORL",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mercredi",
+                "vendredi"
+            ],
+            "horaires": "07:00-12:00",
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Rhumatologie",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "jeudi",
+                "vendredi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Rhumatologie",
+            "site": "CHR Lomé Commune",
+            "prix": 3000,
+            "jours": null,
+            "horaires": null,
+            "sur_rendez_vous": true
+        },
+        {
+            "specialite": "Neurologie",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Urologie",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": [
+                
+            ],
+            "horaires": null,
+            "sur_rendez_vous": true
+        },
+        {
+            "specialite": "Psychiatrie",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Chirurgie pédiatrique",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "mardi",
+                "vendredi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Médecine interne",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "mardi",
+                "jeudi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Chirurgie viscérale",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": null,
+            "horaires": null,
+            "sur_rendez_vous": null
+        },
+        {
+            "specialite": "HGE",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "vendredi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Dermatologie",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "vendredi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Dermatologie",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "jeudi",
+                "vendredi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Psychiatrie",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "vendredi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Néphrologie",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": null,
+            "horaires": null,
+            "sur_rendez_vous": null
+        },
+        {
+            "specialite": "Pneumologie",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "vendredi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Cardiologie",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Gynécologie",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Gynécologie",
+            "site": "CHU SO",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "vendredi"
+            ],
+            "horaires": null,
+            "sur_rendez_vous": false
+        },
+        {
+            "specialite": "Ophtalmologie",
+            "site": "CHU Campus",
+            "prix": 3000,
+            "jours": [
+                "lundi",
+                "mardi",
+                "mercredi",
+                "jeudi",
+                "vendredi"
+            ],
+            "horaires": "08:00-12:00",
+            "sur_rendez_vous": false
+        }
+    ]
+}

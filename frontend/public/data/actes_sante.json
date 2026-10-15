@@ -1,0 +1,2176 @@
+{
+    "actes": [
+        {
+            "nom": "Ac anti-HBc IgM",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8400
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8400
+                }
+            ]
+        },
+        {
+            "nom": "Ac anti-HBc totaux",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8400
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8400
+                }
+            ]
+        },
+        {
+            "nom": "Ac anti-HBe",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8400
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8400
+                }
+            ]
+        },
+        {
+            "nom": "Ac anti-HBs",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8400
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8400
+                }
+            ]
+        },
+        {
+            "nom": "Ac anti-HCV",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5500
+                }
+            ]
+        },
+        {
+            "nom": "Acide urique",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Adénogramme",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 12000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 12000
+                }
+            ]
+        },
+        {
+            "nom": "AFP",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8400
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8400
+                }
+            ]
+        },
+        {
+            "nom": "Ag HBe",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 12000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 12000
+                }
+            ]
+        },
+        {
+            "nom": "AgHBs",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5500
+                }
+            ]
+        },
+        {
+            "nom": "ALAT",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Albumine sérique",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2500
+                }
+            ]
+        },
+        {
+            "nom": "Albuminurie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 500
+                }
+            ]
+        },
+        {
+            "nom": "Amylase",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "ASAT",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "ASLO",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3000
+                }
+            ]
+        },
+        {
+            "nom": "Auto-réfractométrie",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 4080
+                }
+            ]
+        },
+        {
+            "nom": "Autres prélèvements mycologiques",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 4500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 4500
+                }
+            ]
+        },
+        {
+            "nom": "BCE",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Bilirubine directe",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1500
+                }
+            ]
+        },
+        {
+            "nom": "Bilirubine totale",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Calcium",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1500
+                }
+            ]
+        },
+        {
+            "nom": "CD4",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 0
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 0
+                }
+            ]
+        },
+        {
+            "nom": "Césarienne",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10500
+                }
+            ]
+        },
+        {
+            "nom": "Cétonurie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 500
+                }
+            ]
+        },
+        {
+            "nom": "Charge virale hépatite B",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 25000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 25000
+                }
+            ]
+        },
+        {
+            "nom": "Charge virale VIH",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 0
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 0
+                }
+            ]
+        },
+        {
+            "nom": "Cholestérol HDL",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2500
+                }
+            ]
+        },
+        {
+            "nom": "Cholestérol LDL",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2500
+                }
+            ]
+        },
+        {
+            "nom": "Cholestérol total",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "CK-MB",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 6000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 6000
+                }
+            ]
+        },
+        {
+            "nom": "Coproculture",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "COVID-19",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10000
+                }
+            ]
+        },
+        {
+            "nom": "CPK",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Créatininémie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Créatininurie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1500
+                }
+            ]
+        },
+        {
+            "nom": "CRP",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1200
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1200
+                }
+            ]
+        },
+        {
+            "nom": "CRP quantitative",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5000
+                }
+            ]
+        },
+        {
+            "nom": "CU (recherche de bilharzies)",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Cytologie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": null
+                }
+            ]
+        },
+        {
+            "nom": "Cytoponction biopsique",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": null
+                }
+            ]
+        },
+        {
+            "nom": "D-Dimères",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 15000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 15000
+                }
+            ]
+        },
+        {
+            "nom": "Dialyse",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 150000
+                }
+            ]
+        },
+        {
+            "nom": "Dialyse sous oxygène",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 160000
+                }
+            ]
+        },
+        {
+            "nom": "Dosage bêta-HCG",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10000
+                }
+            ]
+        },
+        {
+            "nom": "DPN*",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 0
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 0
+                }
+            ]
+        },
+        {
+            "nom": "ECB du crachat",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "ECB du LCR",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "ECB du liquide articulaire",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "ECB du liquide d’ascite",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "ECB du liquide pleural",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "ECB du pus",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "ECBU",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "ECG",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 6100
+                }
+            ]
+        },
+        {
+            "nom": "Écho abdominale",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10200
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10200
+                }
+            ]
+        },
+        {
+            "nom": "Écho abdomino-pelvienne",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 15300
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 15300
+                }
+            ]
+        },
+        {
+            "nom": "Écho cervicale",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10200
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10200
+                }
+            ]
+        },
+        {
+            "nom": "Écho des TSA",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 15300
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 15300
+                }
+            ]
+        },
+        {
+            "nom": "Écho Doppler",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 20000
+                }
+            ]
+        },
+        {
+            "nom": "Écho Doppler Vx",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 15300
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 15300
+                }
+            ]
+        },
+        {
+            "nom": "Écho obstétricale",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5100
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5100
+                }
+            ]
+        },
+        {
+            "nom": "Écho pelvienne",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 6800
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 6800
+                }
+            ]
+        },
+        {
+            "nom": "Écho rénale",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5100
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5100
+                }
+            ]
+        },
+        {
+            "nom": "Écho testiculaire",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10200
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10200
+                }
+            ]
+        },
+        {
+            "nom": "Écho thyroïdienne",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 15300
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 15300
+                }
+            ]
+        },
+        {
+            "nom": "Écho trans-fontanellaire",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10200
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10200
+                }
+            ]
+        },
+        {
+            "nom": "Écho tumorale",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 15300
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 15300
+                }
+            ]
+        },
+        {
+            "nom": "Électrophorèse des protéines",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5000
+                }
+            ]
+        },
+        {
+            "nom": "Électrophorèse Hb",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "Facteur rhumatoïde",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 7000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 7000
+                }
+            ]
+        },
+        {
+            "nom": "Fer sérique",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "Ferritinémie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 12000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 12000
+                }
+            ]
+        },
+        {
+            "nom": "Fibrinogène",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "FT3",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 6500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 6500
+                }
+            ]
+        },
+        {
+            "nom": "FT4",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 6500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 6500
+                }
+            ]
+        },
+        {
+            "nom": "Gamma GT",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "GE+FM",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 800
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 800
+                }
+            ]
+        },
+        {
+            "nom": "Glucosurie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 500
+                }
+            ]
+        },
+        {
+            "nom": "Glycémie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Glycémie post-prandiale",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2400
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2400
+                }
+            ]
+        },
+        {
+            "nom": "Glycorachie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1750
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1750
+                }
+            ]
+        },
+        {
+            "nom": "Groupage Rh",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2500
+                }
+            ]
+        },
+        {
+            "nom": "HbA1C",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10000
+                }
+            ]
+        },
+        {
+            "nom": "Hémoculture",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10000
+                }
+            ]
+        },
+        {
+            "nom": "Hémodialyse — première séance",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 140000
+                }
+            ]
+        },
+        {
+            "nom": "Hémodialyse — séances suivantes",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 34000
+                }
+            ]
+        },
+        {
+            "nom": "HGPO",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 7000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 7000
+                }
+            ]
+        },
+        {
+            "nom": "Histologie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": null
+                }
+            ]
+        },
+        {
+            "nom": "HLM",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Homocystéine",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 12000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 12000
+                }
+            ]
+        },
+        {
+            "nom": "IgE",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5500
+                }
+            ]
+        },
+        {
+            "nom": "INR",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "Ionogramme",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 7000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 7000
+                }
+            ]
+        },
+        {
+            "nom": "IRM Cérébrale",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 85000
+                }
+            ]
+        },
+        {
+            "nom": "IRM Rachis cervical",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 85000
+                }
+            ]
+        },
+        {
+            "nom": "IRM Rachis dorsal",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 85000
+                }
+            ]
+        },
+        {
+            "nom": "IRM Rachis lombaire",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 85000
+                }
+            ]
+        },
+        {
+            "nom": "IRM Bassin",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 85000
+                }
+            ]
+        },
+        {
+            "nom": "IRM Thorax",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 85000
+                }
+            ]
+        },
+        {
+            "nom": "IRM Abdomen",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 85000
+                }
+            ]
+        },
+        {
+            "nom": "IRM de deux (02) organes ou segments",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 160000
+                }
+            ]
+        },
+        {
+            "nom": "IRM de trois (03) organes ou segments",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 210000
+                }
+            ]
+        },
+        {
+            "nom": "Produit de contraste IRM",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 35000
+                }
+            ]
+        },
+        {
+            "nom": "LCR — bactériologie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "LCR — cytologie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "LDH",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "Lipase",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 7000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 7000
+                }
+            ]
+        },
+        {
+            "nom": "Magnésium",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1500
+                }
+            ]
+        },
+        {
+            "nom": "Microalbuminurie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8000
+                }
+            ]
+        },
+        {
+            "nom": "Microalbuminurie de 24 h",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 7000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 7000
+                }
+            ]
+        },
+        {
+            "nom": "Microalbuminurie de miction",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 7000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 7000
+                }
+            ]
+        },
+        {
+            "nom": "Microalbuminurie/créatininurie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8000
+                }
+            ]
+        },
+        {
+            "nom": "Myélogramme",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 12000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 12000
+                }
+            ]
+        },
+        {
+            "nom": "NB",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "NFS",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "Oxygène (par heure)",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2500
+                }
+            ]
+        },
+        {
+            "nom": "PAL",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Pangonogramme (écho de la totalité des MI)",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10200
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10200
+                }
+            ]
+        },
+        {
+            "nom": "Phosphore",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1500
+                }
+            ]
+        },
+        {
+            "nom": "PIO",
+            "categorie": "Actes et examens",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 4080
+                }
+            ]
+        },
+        {
+            "nom": "Produit de contraste",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 18000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 18000
+                }
+            ]
+        },
+        {
+            "nom": "Protéinorachie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1750
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1750
+                }
+            ]
+        },
+        {
+            "nom": "Protéinurie de 24 h",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Protidémie",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "PSA",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5500
+                }
+            ]
+        },
+        {
+            "nom": "PSA libre",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5500
+                }
+            ]
+        },
+        {
+            "nom": "PU ou CU",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "PV",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "Recherche des microfilaires sanguicoles",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Rubéole",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8400
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8400
+                }
+            ]
+        },
+        {
+            "nom": "Radiographie (Rx) ASP",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10200
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10200
+                }
+            ]
+        },
+        {
+            "nom": "Radiographie (Rx) bassin",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 10200
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 10200
+                }
+            ]
+        },
+        {
+            "nom": "Radiographie (Rx) Blondeau",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5100
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5100
+                }
+            ]
+        },
+        {
+            "nom": "Radiographie (Rx) genou",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5100
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5100
+                }
+            ]
+        },
+        {
+            "nom": "Radiographie (Rx) lombaire",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5100
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5100
+                }
+            ]
+        },
+        {
+            "nom": "Radiographie (Rx) poignet",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5100
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5100
+                }
+            ]
+        },
+        {
+            "nom": "Radiographie (Rx) thorax",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5100
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5100
+                }
+            ]
+        },
+        {
+            "nom": "Scanner (TDM) abdominal",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 72500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 72500
+                }
+            ]
+        },
+        {
+            "nom": "Scanner (TDM) cérébral sans injection",
+            "categorie": "Imagerie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 25500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 25500
+                }
+            ]
+        },
+        {
+            "nom": "Scotch test anal",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "Scotch test cutané",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 4500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 4500
+                }
+            ]
+        },
+        {
+            "nom": "Selles KOP",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 800
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 800
+                }
+            ]
+        },
+        {
+            "nom": "SRV",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 0
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 0
+                }
+            ]
+        },
+        {
+            "nom": "TCA",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "Test de compatibilité",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2100
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2100
+                }
+            ]
+        },
+        {
+            "nom": "Test de Rivalta",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "Test Z",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 6000
+                }
+            ]
+        },
+        {
+            "nom": "TH",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "Tissus/matériel",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 3500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 3500
+                }
+            ]
+        },
+        {
+            "nom": "Toxo",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 5500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 5500
+                }
+            ]
+        },
+        {
+            "nom": "TP",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "TPHA",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1750
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1750
+                }
+            ]
+        },
+        {
+            "nom": "Transferrine",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 12000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 12000
+                }
+            ]
+        },
+        {
+            "nom": "Triglycérides",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 2000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 2000
+                }
+            ]
+        },
+        {
+            "nom": "Troponine",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 8400
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 8400
+                }
+            ]
+        },
+        {
+            "nom": "TS",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "TSHus",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 6500
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 6500
+                }
+            ]
+        },
+        {
+            "nom": "Urée",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        },
+        {
+            "nom": "VDRL",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1750
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1750
+                }
+            ]
+        },
+        {
+            "nom": "Vitamine B12",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 12000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 12000
+                }
+            ]
+        },
+        {
+            "nom": "Vitamine B9",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 12000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 12000
+                }
+            ]
+        },
+        {
+            "nom": "VS (1 h)",
+            "categorie": "Biologie",
+            "tarifs": [
+                {
+                    "etablissement": "CHU-Campus",
+                    "prix": 1000
+                },
+                {
+                    "etablissement": "CHU-SO",
+                    "prix": 1000
+                }
+            ]
+        }
+    ]
+}

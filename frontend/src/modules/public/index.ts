@@ -1,0 +1,6 @@
+export * from './home'
+export * from './consultations'
+export * from './actes'
+export { default as Gardes } from './gardes/Gardes.vue'
+export { default as Internes } from './internes/Internes.vue'
+export { default as About } from './about/About.vue'
